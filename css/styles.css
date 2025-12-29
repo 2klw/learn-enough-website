@@ -1,0 +1,34 @@
+blockquote {
+  font-size: 20px;
+  font-style: italic;
+}
+header {
+  text-align: center;
+}
+.book-cover {
+  float: left;
+  height: 200px;
+  margin: 0 40px 0 0;
+}
+.main-image {
+  display: block;
+  margin: 0 auto;
+}
+.menu {
+  text-align: right;
+}
+.menu a {
+  margin: 0 5px;
+}
+.report {
+  background-color: #fafafa;
+  margin: 20px auto;
+  padding: 30px;
+  width: 500px;
+}
+.quote-highlight {
+  color: #f00;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+}
